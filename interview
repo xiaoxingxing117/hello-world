@@ -1,0 +1,10 @@
+1. 为什么选择seajs，AMD CMD
+2. backbone 事件on和listenTo 区别
+3. 事件冒泡捕获 底层事件机制，第三个参数
+4. react数据流管理 redux中间件 react-redux机制 react redux怎么协作 store怎么传入react组件
+5. react生命周期  react16新特性 a子组件b,c,a变化b,c是否render，b变化c是否render
+6. react事件合成 底层事件操作
+7. visual DOM 原理 用处 与模板语言区别
+8. WEB安全 xss场景 JSONP csrf xors 
+9. 跨域
+10.float内存存储形式 js Number 单精度/双精度？
